@@ -2,6 +2,8 @@
 
 **AIM** is an Android XR client for **Vuzix Blade 2** smart glasses. It renders GIS/3D utility data and field workflows in a hands‑free AR experience by loading a **web UI** (CesiumJS + SERMAS) in a secure WebView.
 
+Developed by **Xilbi Sistemas de Informacion SL**
+
 > 🧰 **SERMAS Toolkit setup**: We **do not** provide server setup here. Please follow the official documentation at **[https://sermasproject.eu/sermas-toolkit/](https://sermasproject.eu/sermas-toolkit/)** (read the docs, follow the guides, and deploy the required services). Once your SERMAS URL is ready, point this client to it (see **Configuration**).
 
 ---
