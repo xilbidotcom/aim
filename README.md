@@ -1,7 +1,3 @@
-Absolutely—here’s the **updated README.md** with a new **“Vuzix Blade 2 Device Profile (Required)”** section and references to the Vuzix documentation. I’ve kept all the prior content (SERMAS and Cesium setup) and inserted the new steps cleanly into the flow.
-
----
-
 # AIM – Augmented Reality for Energy Infrastructure Management (XR Client)
 
 **AIM** is an Android XR client for **Vuzix Blade 2** smart glasses. It renders GIS/3D utility data and field workflows in a hands‑free AR experience by loading a **web UI** (CesiumJS + SERMAS) in a secure WebView.
