@@ -1,6 +1,6 @@
 # AIM – Augmented Reality for Energy Infrastructure Management (XR Client)
 
-**AIM** is an XR client for **Vuzix Blade 2** smart glasses. It renders GIS/3D utility data and field workflows in a hands‑free AR experience by loading a **web UI** (CesiumJS + SERMAS) in a secure WebView.
+**AIM** is a XR client for **Vuzix Blade 2** smart glasses. It renders GIS/3D utility data and field workflows in a hands‑free AR experience by loading a **web UI** (CesiumJS + SERMAS) in a secure WebView.
 
 Developed by **Xilbi Sistemas de Informacion SL**
 
