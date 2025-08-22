@@ -337,9 +337,7 @@ Add your license (MIT/Apache‑2.0, etc.) and include a `LICENSE` file.
 
 ## Acknowledgments
 
-* Developed within **SERMAS** (Horizon Europe).
-* Runs on **Vuzix Blade 2** (Android 11).
-* 3D visualization by **CesiumJS** with **Cesium ion** terrain/imagery/tiles.
+* The Augmented Reality System for Energy Infrastructure Management (AIM) has indirectly received funding from the European Union, via the SERMAS OC2 DEMONSTRATE issued and executed under the SERMAS project (Grant Agreement no. 101070351). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or SERMAS. Neither the European Union nor SERMAS can be held responsible for them.
 
 ---
 
