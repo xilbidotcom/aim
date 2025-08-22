@@ -6,10 +6,10 @@ Developed by **Xilbi Sistemas de Informacion SL**
 
 The Augmented Reality System for Energy Infrastructure Management (AIM) has indirectly received funding from the European Union, via the SERMAS OC2 DEMONSTRATE issued and executed under the SERMAS project (Grant Agreement no. 101070351). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or SERMAS. Neither the European Union nor SERMAS can be held responsible for them.
 <p align="center">
-  <img src="docs/images/EN_FundedbytheEU_RGB_POS-scaled.png" alt="EU Funding" width="300"/>
+  <img src="images/EN_FundedbytheEU_RGB_POS-scaled.png" alt="EU Funding" width="300"/>
 </p>
 <p align="center">
-  <img src="docs/images/SERMAS01-1-2.png" alt="EU Funding" width="300"/>
+  <img src="images/SERMAS01-1-2.png" alt="EU Funding" width="300"/>
 </p>
 > 🧰 **SERMAS Toolkit setup**: We **do not** provide server setup here. Please follow the official documentation at **[https://sermasproject.eu/sermas-toolkit/](https://sermasproject.eu/sermas-toolkit/)** (read the docs, follow the guides, and deploy the required services). Once your SERMAS URL is ready, point this client to it (see **Configuration**).
 
